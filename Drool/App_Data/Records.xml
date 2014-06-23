@@ -1,0 +1,2766 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Record>
+    <CurrencyName>Afghan Afghani</CurrencyName>
+    <CurrencySymbol>AFN</CurrencySymbol>
+    <SDRFactor>0.0112</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Albanian Lek</CurrencyName>
+    <CurrencySymbol>ALL</CurrencySymbol>
+    <SDRFactor>0.00627</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Algerian Dinar</CurrencyName>
+    <CurrencySymbol>DZD</CurrencySymbol>
+    <SDRFactor>0.00816932</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.05</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Andorran Peseta (obsolete)</CurrencyName>
+    <CurrencySymbol>ADP</CurrencySymbol>
+    <SDRFactor>0.00529361</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Angolan Kwanza</CurrencyName>
+    <CurrencySymbol>AOA</CurrencySymbol>
+    <SDRFactor>0.006638</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Anoncoin</CurrencyName>
+    <CurrencySymbol>ANC</CurrencySymbol>
+    <SDRFactor>0.401134</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.0001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Aphroditecoin</CurrencyName>
+    <CurrencySymbol>APH</CurrencySymbol>
+    <SDRFactor>4.4E-05</SDRFactor>
+    <UpdateDate>May 31, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>2</SigFig>
+    <SmallUnit>0.0001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Argentine Peso</CurrencyName>
+    <CurrencySymbol>ARS</CurrencySymbol>
+    <SDRFactor>0.079801</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Argentum</CurrencyName>
+    <CurrencySymbol>ARG</CurrencySymbol>
+    <SDRFactor>0.005179</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Armenian Dram</CurrencyName>
+    <CurrencySymbol>AMD</CurrencySymbol>
+    <SDRFactor>0.001576</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.2</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Aruban Florin</CurrencyName>
+    <CurrencySymbol>AWG</CurrencySymbol>
+    <SDRFactor>0.362</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Auroracoin</CurrencyName>
+    <CurrencySymbol>AUR</CurrencySymbol>
+    <SDRFactor>0.092986</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>1E-05</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Australian Dollar</CurrencyName>
+    <CurrencySymbol>AUD</CurrencySymbol>
+    <SDRFactor>0.609638</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.05</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Austrian Schilling (obsolete)</CurrencyName>
+    <CurrencySymbol>ATS</CurrencySymbol>
+    <SDRFactor>0.0640089</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Azerbaijani Manat</CurrencyName>
+    <CurrencySymbol>AZN</CurrencySymbol>
+    <SDRFactor>0.8271</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>BBQCoin</CurrencyName>
+    <CurrencySymbol>BQC</CurrencySymbol>
+    <SDRFactor>0.00208</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Bahamian Dollar</CurrencyName>
+    <CurrencySymbol>BSD</CurrencySymbol>
+    <SDRFactor>0.648</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Bahraini Dinar</CurrencyName>
+    <CurrencySymbol>BHD</CurrencySymbol>
+    <SDRFactor>1.72395</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.05</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Bangladeshi Taka</CurrencyName>
+    <CurrencySymbol>BDT</CurrencySymbol>
+    <SDRFactor>0.008369</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Barbados Dollar</CurrencyName>
+    <CurrencySymbol>BBD</CurrencySymbol>
+    <SDRFactor>0.324</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Belarusian Ruble</CurrencyName>
+    <CurrencySymbol>BYR</CurrencySymbol>
+    <SDRFactor>6.3643E-05</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Belgian Franc (obsolete)</CurrencyName>
+    <CurrencySymbol>BEF</CurrencySymbol>
+    <SDRFactor>0.021834</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.5</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Belize Dollar</CurrencyName>
+    <CurrencySymbol>BZD</CurrencySymbol>
+    <SDRFactor>0.3249</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Bermuda Dollar</CurrencyName>
+    <CurrencySymbol>BMD</CurrencySymbol>
+    <SDRFactor>0.648206</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>BetaCoin</CurrencyName>
+    <CurrencySymbol>BET</CurrencySymbol>
+    <SDRFactor>0.00107</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Bhutanese Ngultrum</CurrencyName>
+    <CurrencySymbol>BTN</CurrencySymbol>
+    <SDRFactor>0.010776</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.2</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Billioncoin</CurrencyName>
+    <CurrencySymbol>BIL</CurrencySymbol>
+    <SDRFactor>5.8E-05</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>2</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>BitBar</CurrencyName>
+    <CurrencySymbol>BTB</CurrencySymbol>
+    <SDRFactor>5.133621</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>7</SigFig>
+    <SmallUnit>1E-05</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Bitcoin</CurrencyName>
+    <CurrencySymbol>BTC</CurrencySymbol>
+    <SDRFactor>388.85</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.0001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Bitleu</CurrencyName>
+    <CurrencySymbol>BTL</CurrencySymbol>
+    <SDRFactor>0.00016</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>2</SigFig>
+    <SmallUnit>0.1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>BlackCoin</CurrencyName>
+    <CurrencySymbol>BLC</CurrencySymbol>
+    <SDRFactor>0.007695</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Bolivian Boliviano</CurrencyName>
+    <CurrencySymbol>BOB</CurrencySymbol>
+    <SDRFactor>0.0938</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>0.1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Bosnia-Herzegovina Convertible Mark</CurrencyName>
+    <CurrencySymbol>BAM</CurrencySymbol>
+    <SDRFactor>0.4507</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.5</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Botswana Pula</CurrencyName>
+    <CurrencySymbol>BWP</CurrencySymbol>
+    <SDRFactor>0.0731825</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Brazilian Cruzeiro (obsolete)</CurrencyName>
+    <CurrencySymbol>BRC</CurrencySymbol>
+    <SDRFactor>0.000104603</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Brazilian Real</CurrencyName>
+    <CurrencySymbol>BRL</CurrencySymbol>
+    <SDRFactor>0.287657</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Brunei Dollar</CurrencyName>
+    <CurrencySymbol>BND</CurrencySymbol>
+    <SDRFactor>0.518855</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Bulgarian Lev</CurrencyName>
+    <CurrencySymbol>BGN</CurrencySymbol>
+    <SDRFactor>0.44877</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Bulgarian Old Lev (obsolete)</CurrencyName>
+    <CurrencySymbol>BGL</CurrencySymbol>
+    <SDRFactor>0.00044877</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>10</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Burundian Franc</CurrencyName>
+    <CurrencySymbol>BIF</CurrencySymbol>
+    <SDRFactor>0.00042228</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Bytecoin</CurrencyName>
+    <CurrencySymbol>BTE</CurrencySymbol>
+    <SDRFactor>0.008395</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Cambodian Riel</CurrencyName>
+    <CurrencySymbol>KHR</CurrencySymbol>
+    <SDRFactor>0.00016017</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>100</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Canadian Dollar</CurrencyName>
+    <CurrencySymbol>CAD</CurrencySymbol>
+    <SDRFactor>0.602086</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Cape Verde Escudo</CurrencyName>
+    <CurrencySymbol>CVE</CurrencySymbol>
+    <SDRFactor>0.00809</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>CasinoCoin</CurrencyName>
+    <CurrencySymbol>CSC</CurrencySymbol>
+    <SDRFactor>0.00164</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Cayman Islands Dollar</CurrencyName>
+    <CurrencySymbol>KYD</CurrencySymbol>
+    <SDRFactor>0.79049</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Central African CFA</CurrencyName>
+    <CurrencySymbol>XAF</CurrencySymbol>
+    <SDRFactor>0.00134274</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Chilean Peso</CurrencyName>
+    <CurrencySymbol>CLP</CurrencySymbol>
+    <SDRFactor>0.00116439</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Chilean Unidad de Fomento</CurrencyName>
+    <CurrencySymbol>CLF</CurrencySymbol>
+    <SDRFactor>27.95052</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>the Central Bank of Chile</FactorSource>
+    <SigFig>7</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Chinese Offshore Yuan</CurrencyName>
+    <CurrencySymbol>CNH</CurrencySymbol>
+    <SDRFactor>0.1041</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.5</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Chinese Yuan</CurrencyName>
+    <CurrencySymbol>CNY</CurrencySymbol>
+    <SDRFactor>0.105358</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.5</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Cinni</CurrencyName>
+    <CurrencySymbol>CIN</CurrencySymbol>
+    <SDRFactor>0.03285</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Colombian Peso</CurrencyName>
+    <CurrencySymbol>COP</CurrencySymbol>
+    <SDRFactor>0.000344545</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>100</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Comorian Franc</CurrencyName>
+    <CurrencySymbol>KMF</CurrencySymbol>
+    <SDRFactor>0.0017929</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.05</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Copperlark</CurrencyName>
+    <CurrencySymbol>CLR</CurrencySymbol>
+    <SDRFactor>0.0151</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Costa Rican Colon</CurrencyName>
+    <CurrencySymbol>CRC</CurrencySymbol>
+    <SDRFactor>0.0011744</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Counterparty</CurrencyName>
+    <CurrencySymbol>ZCP</CurrencySymbol>
+    <SDRFactor>1.19592</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.0001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>CraftCoin</CurrencyName>
+    <CurrencySymbol>XCC</CurrencySymbol>
+    <SDRFactor>0.009581</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Croatian Kuna</CurrencyName>
+    <CurrencySymbol>HRK</CurrencySymbol>
+    <SDRFactor>0.1164</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>CryptogenicBullion</CurrencyName>
+    <CurrencySymbol>CGB</CurrencySymbol>
+    <SDRFactor>0.1083</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.0001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Cuban Convertible Peso</CurrencyName>
+    <CurrencySymbol>CUC</CurrencySymbol>
+    <SDRFactor>0.648206</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Cuban Peso (obsolete)</CurrencyName>
+    <CurrencySymbol>CUP</CurrencySymbol>
+    <SDRFactor>0.648</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Cypriot Pound</CurrencyName>
+    <CurrencySymbol>CYP</CurrencySymbol>
+    <SDRFactor>1.506</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Czech Koruna</CurrencyName>
+    <CurrencySymbol>CZK</CurrencySymbol>
+    <SDRFactor>0.0321085</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Danish Krone</CurrencyName>
+    <CurrencySymbol>DKK</CurrencySymbol>
+    <SDRFactor>0.118128</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.25</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>DarkCoin</CurrencyName>
+    <CurrencySymbol>DRK</CurrencySymbol>
+    <SDRFactor>6.312684</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>7</SigFig>
+    <SmallUnit>0.001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Datacoin</CurrencyName>
+    <CurrencySymbol>DTC</CurrencySymbol>
+    <SDRFactor>0.01083</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Deutsche eMark</CurrencyName>
+    <CurrencySymbol>DEE</CurrencySymbol>
+    <SDRFactor>0.01241</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Devcoin</CurrencyName>
+    <CurrencySymbol>DVC</CurrencySymbol>
+    <SDRFactor>7.8E-05</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>2</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>DiamondCoins</CurrencyName>
+    <CurrencySymbol>DMD</CurrencySymbol>
+    <SDRFactor>0.12352</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.0001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Digitalcoin</CurrencyName>
+    <CurrencySymbol>DGC</CurrencySymbol>
+    <SDRFactor>0.007894</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Djiboutian Franc</CurrencyName>
+    <CurrencySymbol>DJF</CurrencySymbol>
+    <SDRFactor>0.0035616</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>10</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>DogeCoin</CurrencyName>
+    <CurrencySymbol>XDG</CurrencySymbol>
+    <SDRFactor>0.00022</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>2</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Dominican Peso</CurrencyName>
+    <CurrencySymbol>DOP</CurrencySymbol>
+    <SDRFactor>0.01502</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Dutch Guilder (obsolete)</CurrencyName>
+    <CurrencySymbol>NLG</CurrencySymbol>
+    <SDRFactor>0.399681</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.5</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>EZCoin</CurrencyName>
+    <CurrencySymbol>EZC</CurrencySymbol>
+    <SDRFactor>0.006271</SDRFactor>
+    <UpdateDate>January 20, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>East Caribbean Dollar</CurrencyName>
+    <CurrencySymbol>XCD</CurrencySymbol>
+    <SDRFactor>0.24</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Ecuadorian Sucre (obsolete)</CurrencyName>
+    <CurrencySymbol>ECS</CurrencySymbol>
+    <SDRFactor>2.593E-05</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>100</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Egyptian Pound</CurrencyName>
+    <CurrencySymbol>EGP</CurrencySymbol>
+    <SDRFactor>0.090694</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.25</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>El Salvador Colon (obsolete)</CurrencyName>
+    <CurrencySymbol>SVC</CurrencySymbol>
+    <SDRFactor>0.0740807</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.05</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Elacoin</CurrencyName>
+    <CurrencySymbol>ELC</CurrencySymbol>
+    <SDRFactor>0.062208</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.0001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Electronic Gulden</CurrencyName>
+    <CurrencySymbol>EFL</CurrencySymbol>
+    <SDRFactor>0.00256</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>0.001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Eritrean Nakfa</CurrencyName>
+    <CurrencySymbol>ERN</CurrencySymbol>
+    <SDRFactor>0.04307</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Estonian Kroon (obsolete)</CurrencyName>
+    <CurrencySymbol>EEK</CurrencySymbol>
+    <SDRFactor>0.0562922</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.05</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Ethiopian Birr</CurrencyName>
+    <CurrencySymbol>ETB</CurrencySymbol>
+    <SDRFactor>0.033025</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Euro</CurrencyName>
+    <CurrencySymbol>EUR</CurrencySymbol>
+    <SDRFactor>0.880782</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>European Currency Unit (obsolete)</CurrencyName>
+    <CurrencySymbol>XEU</CurrencySymbol>
+    <SDRFactor>0.880782</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Faircoin</CurrencyName>
+    <CurrencySymbol>FAC</CurrencySymbol>
+    <SDRFactor>0.000719</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Falkland Islands Pound</CurrencyName>
+    <CurrencySymbol>FKP</CurrencySymbol>
+    <SDRFactor>1.10474</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Fastcoin</CurrencyName>
+    <CurrencySymbol>FST</CurrencySymbol>
+    <SDRFactor>0.000447</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Feathercoin</CurrencyName>
+    <CurrencySymbol>FTC</CurrencySymbol>
+    <SDRFactor>0.02706</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Fiji Dollar</CurrencyName>
+    <CurrencySymbol>FJD</CurrencySymbol>
+    <SDRFactor>0.35231</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Finnish Mark (obsolete)</CurrencyName>
+    <CurrencySymbol>FIM</CurrencySymbol>
+    <SDRFactor>0.148137</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>First Zimbabwean Dollar (obsolete)</CurrencyName>
+    <CurrencySymbol>ZWD</CurrencySymbol>
+    <SDRFactor>6.48206E-30</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>FlorinCoin</CurrencyName>
+    <CurrencySymbol>FLO</CurrencySymbol>
+    <SDRFactor>0.00032</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>2</SigFig>
+    <SmallUnit>0.1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>FlutterCoin</CurrencyName>
+    <CurrencySymbol>FLT</CurrencySymbol>
+    <SDRFactor>0.00107</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Fourth Zimbabwean Dollar (obsolete)</CurrencyName>
+    <CurrencySymbol>ZWL</CurrencySymbol>
+    <SDRFactor>6.48206E-05</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Franc Congolais</CurrencyName>
+    <CurrencySymbol>CDF</CurrencySymbol>
+    <SDRFactor>0.0007034</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Franko</CurrencyName>
+    <CurrencySymbol>FRK</CurrencySymbol>
+    <SDRFactor>0.087499</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.0001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Freicoin</CurrencyName>
+    <CurrencySymbol>FRC</CurrencySymbol>
+    <SDRFactor>0.00325</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>0.001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>French Franc (obsolete)</CurrencyName>
+    <CurrencySymbol>FRF</CurrencySymbol>
+    <SDRFactor>0.134274</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>French Pacific Franc</CurrencyName>
+    <CurrencySymbol>XPF</CurrencySymbol>
+    <SDRFactor>0.00738096</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Gambian Dalasi</CurrencyName>
+    <CurrencySymbol>GMD</CurrencySymbol>
+    <SDRFactor>0.01629</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>GameCoin</CurrencyName>
+    <CurrencySymbol>GME</CurrencySymbol>
+    <SDRFactor>0.00133</SDRFactor>
+    <UpdateDate>January 1, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Georgian Lari</CurrencyName>
+    <CurrencySymbol>GEL</CurrencySymbol>
+    <SDRFactor>0.3662</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>German Mark (obsolete)</CurrencyName>
+    <CurrencySymbol>DEM</CurrencySymbol>
+    <SDRFactor>0.450337</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Ghanaian Cedi</CurrencyName>
+    <CurrencySymbol>GHS</CurrencySymbol>
+    <SDRFactor>0.2031</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Gibraltar Pound</CurrencyName>
+    <CurrencySymbol>GIP</CurrencySymbol>
+    <SDRFactor>1.1043</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>GlobalCoin</CurrencyName>
+    <CurrencySymbol>GLC</CurrencySymbol>
+    <SDRFactor>0.000397</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>0.1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>GoldCoin</CurrencyName>
+    <CurrencySymbol>GLD</CurrencySymbol>
+    <SDRFactor>0.008909</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>GrandCoin</CurrencyName>
+    <CurrencySymbol>GDC</CurrencySymbol>
+    <SDRFactor>0.0002341</SDRFactor>
+    <UpdateDate>February 16, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Greek Drachma (obsolete)</CurrencyName>
+    <CurrencySymbol>GRD</CurrencySymbol>
+    <SDRFactor>0.00258483</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.5</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Guatemalan Quetzal</CurrencyName>
+    <CurrencySymbol>GTQ</CurrencySymbol>
+    <SDRFactor>0.08294</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Guinean Franc</CurrencyName>
+    <CurrencySymbol>GNF</CurrencySymbol>
+    <SDRFactor>9.4906E-05</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Guyanese Dollar</CurrencyName>
+    <CurrencySymbol>GYD</CurrencySymbol>
+    <SDRFactor>0.0031512</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Haitian Gourde</CurrencyName>
+    <CurrencySymbol>HTG</CurrencySymbol>
+    <SDRFactor>0.01426</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.05</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>HoboNickel</CurrencyName>
+    <CurrencySymbol>HBN</CurrencySymbol>
+    <SDRFactor>0.052203</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Honduran Lempira</CurrencyName>
+    <CurrencySymbol>HNL</CurrencySymbol>
+    <SDRFactor>0.031201</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Hong Kong Dollar</CurrencyName>
+    <CurrencySymbol>HKD</CurrencySymbol>
+    <SDRFactor>0.083625</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Hungarian Forint</CurrencyName>
+    <CurrencySymbol>HUF</CurrencySymbol>
+    <SDRFactor>0.00288335</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>I0Coin</CurrencyName>
+    <CurrencySymbol>XIC</CurrencySymbol>
+    <SDRFactor>0.005658</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Icelandic Krona</CurrencyName>
+    <CurrencySymbol>ISK</CurrencySymbol>
+    <SDRFactor>0.00569551</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Indian Rupee</CurrencyName>
+    <CurrencySymbol>INR</CurrencySymbol>
+    <SDRFactor>0.0107535</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Indonesian Rupiah</CurrencyName>
+    <CurrencySymbol>IDR</CurrencySymbol>
+    <SDRFactor>5.41661E-05</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>25</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Infinitecoin</CurrencyName>
+    <CurrencySymbol>IFC</CurrencySymbol>
+    <SDRFactor>1E-05</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>1</SigFig>
+    <SmallUnit>0.0001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Iranian Rial</CurrencyName>
+    <CurrencySymbol>IRR</CurrencySymbol>
+    <SDRFactor>2.52878E-05</SDRFactor>
+    <UpdateDate>June 19, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>5</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Iraqi Dinar</CurrencyName>
+    <CurrencySymbol>IQD</CurrencySymbol>
+    <SDRFactor>0.00055712</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>500</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Irish Pound (obsolete)</CurrencyName>
+    <CurrencySymbol>IEP</CurrencySymbol>
+    <SDRFactor>1.11836</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Isracoin</CurrencyName>
+    <CurrencySymbol>ISR</CurrencySymbol>
+    <SDRFactor>0.007373</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Israeli New Shekel</CurrencyName>
+    <CurrencySymbol>ILS</CurrencySymbol>
+    <SDRFactor>0.188268</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Italian Lira (obsolete)</CurrencyName>
+    <CurrencySymbol>ITL</CurrencySymbol>
+    <SDRFactor>0.000454886</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Ixcoin</CurrencyName>
+    <CurrencySymbol>IXC</CurrencySymbol>
+    <SDRFactor>0.02612</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Jamaican Dollar</CurrencyName>
+    <CurrencySymbol>JMD</CurrencySymbol>
+    <SDRFactor>0.0058224</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Japanese Yen</CurrencyName>
+    <CurrencySymbol>JPY</CurrencySymbol>
+    <SDRFactor>0.00636432</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Jersey Pound</CurrencyName>
+    <CurrencySymbol>JEP</CurrencySymbol>
+    <SDRFactor>1.10474</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Jordanian Dinar</CurrencyName>
+    <CurrencySymbol>JOD</CurrencySymbol>
+    <SDRFactor>0.91488</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.05</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Joulecoin</CurrencyName>
+    <CurrencySymbol>XJO</CurrencySymbol>
+    <SDRFactor>0.00102</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Junkcoin</CurrencyName>
+    <CurrencySymbol>JKC</CurrencySymbol>
+    <SDRFactor>0.00123</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>0.1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>KarpelesCoin</CurrencyName>
+    <CurrencySymbol>KAR</CurrencySymbol>
+    <SDRFactor>0.000389</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>0.001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Kazakhstani Tenge</CurrencyName>
+    <CurrencySymbol>KZT</CurrencySymbol>
+    <SDRFactor>0.00353227</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Kenyan Shilling</CurrencyName>
+    <CurrencySymbol>KES</CurrencySymbol>
+    <SDRFactor>0.007418</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Korean Won</CurrencyName>
+    <CurrencySymbol>KRW</CurrencySymbol>
+    <SDRFactor>0.000636557</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Kuwaiti Dinar</CurrencyName>
+    <CurrencySymbol>KWD</CurrencySymbol>
+    <SDRFactor>2.29942</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Kyrgyzstani Som</CurrencyName>
+    <CurrencySymbol>KGS</CurrencySymbol>
+    <SDRFactor>0.01244</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Lao Kip</CurrencyName>
+    <CurrencySymbol>LAK</CurrencySymbol>
+    <SDRFactor>8.0527E-05</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>500</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Latvian Lats (obsolete)</CurrencyName>
+    <CurrencySymbol>LVL</CurrencySymbol>
+    <SDRFactor>1.25324</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Lebanese Pound</CurrencyName>
+    <CurrencySymbol>LBP</CurrencySymbol>
+    <SDRFactor>0.00042899</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>50</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Lesotho Loti</CurrencyName>
+    <CurrencySymbol>LSL</CurrencySymbol>
+    <SDRFactor>0.060722</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Liberian Dollar</CurrencyName>
+    <CurrencySymbol>LRD</CurrencySymbol>
+    <SDRFactor>0.007243</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.05</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Libyan Dinar</CurrencyName>
+    <CurrencySymbol>LYD</CurrencySymbol>
+    <SDRFactor>0.517491</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Litecoin</CurrencyName>
+    <CurrencySymbol>LTC</CurrencySymbol>
+    <SDRFactor>6.339212</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>7</SigFig>
+    <SmallUnit>1E-05</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Lithuanian Litas</CurrencyName>
+    <CurrencySymbol>LTL</CurrencySymbol>
+    <SDRFactor>0.25542</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Luckycoin</CurrencyName>
+    <CurrencySymbol>LKY</CurrencySymbol>
+    <SDRFactor>0.00138</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Luxembourgian Franc (obsolete)</CurrencyName>
+    <CurrencySymbol>LUF</CurrencySymbol>
+    <SDRFactor>0.021834</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.5</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Macau Pataca</CurrencyName>
+    <CurrencySymbol>MOP</CurrencySymbol>
+    <SDRFactor>0.081189</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Macedonia Denar</CurrencyName>
+    <CurrencySymbol>MKD</CurrencySymbol>
+    <SDRFactor>0.01429</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.5</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>MaidSafeCoin</CurrencyName>
+    <CurrencySymbol>XMS</CurrencySymbol>
+    <SDRFactor>0.01076</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Malagasy Ariary</CurrencyName>
+    <CurrencySymbol>MGA</CurrencySymbol>
+    <SDRFactor>0.0002654</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Malagasy Franc (obsolete)</CurrencyName>
+    <CurrencySymbol>MGF</CurrencySymbol>
+    <SDRFactor>5.308E-05</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>50</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Malawian Kwacha</CurrencyName>
+    <CurrencySymbol>MWK</CurrencySymbol>
+    <SDRFactor>0.0016427</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>5</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Malaysian Ringgit</CurrencyName>
+    <CurrencySymbol>MYR</CurrencySymbol>
+    <SDRFactor>0.201369</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Maldives Rufiyaa</CurrencyName>
+    <CurrencySymbol>MVR</CurrencySymbol>
+    <SDRFactor>0.04217</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Maltese Lira (obsolete)</CurrencyName>
+    <CurrencySymbol>MTL</CurrencySymbol>
+    <SDRFactor>2.05167</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Marinecoin</CurrencyName>
+    <CurrencySymbol>MTC</CurrencySymbol>
+    <SDRFactor>0.10898</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Mastercoin</CurrencyName>
+    <CurrencySymbol>MSC</CurrencySymbol>
+    <SDRFactor>10.73965</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>7</SigFig>
+    <SmallUnit>1E-05</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Mauritania Ouguiya</CurrencyName>
+    <CurrencySymbol>MRO</CurrencySymbol>
+    <SDRFactor>0.0022313</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.2</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Mauritian Rupee</CurrencyName>
+    <CurrencySymbol>MUR</CurrencySymbol>
+    <SDRFactor>0.0213831</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>MaxCoin</CurrencyName>
+    <CurrencySymbol>MAX</CurrencySymbol>
+    <SDRFactor>0.02645</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Megacoin</CurrencyName>
+    <CurrencySymbol>MEC</CurrencySymbol>
+    <SDRFactor>0.042774</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.0001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Mexican Peso</CurrencyName>
+    <CurrencySymbol>MXN</CurrencySymbol>
+    <SDRFactor>0.0498145</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.05</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Mexican Unidad De Inversion</CurrencyName>
+    <CurrencySymbol>MXV</CurrencySymbol>
+    <SDRFactor>0.255459</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>the Central Bank of Mexico</FactorSource>
+    <SigFig>7</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Mincoin</CurrencyName>
+    <CurrencySymbol>MNC</CurrencySymbol>
+    <SDRFactor>0.052242</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Mintcoin</CurrencyName>
+    <CurrencySymbol>XMT</CurrencySymbol>
+    <SDRFactor>2E-05</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>1</SigFig>
+    <SmallUnit>10</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Moldovan Leu</CurrencyName>
+    <CurrencySymbol>MDL</CurrencySymbol>
+    <SDRFactor>0.046218</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Monero</CurrencyName>
+    <CurrencySymbol>XMO</CurrencySymbol>
+    <SDRFactor>1.17237</SDRFactor>
+    <UpdateDate>June 5, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.0001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Mongolian Tugrik</CurrencyName>
+    <CurrencySymbol>MNT</CurrencySymbol>
+    <SDRFactor>0.00035508</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Moroccan Dirham</CurrencyName>
+    <CurrencySymbol>MAD</CurrencySymbol>
+    <SDRFactor>0.078565</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.2</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Myanmar Kyat</CurrencyName>
+    <CurrencySymbol>MMK</CurrencySymbol>
+    <SDRFactor>0.00066143</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>50</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Namecoin</CurrencyName>
+    <CurrencySymbol>NMC</CurrencySymbol>
+    <SDRFactor>1.24778</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.0001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Namibian Dollar</CurrencyName>
+    <CurrencySymbol>NAD</CurrencySymbol>
+    <SDRFactor>0.060569</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.05</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Nas</CurrencyName>
+    <CurrencySymbol>NAS</CurrencySymbol>
+    <SDRFactor>2E-05</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>1</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Nepalese Rupee</CurrencyName>
+    <CurrencySymbol>NPR</CurrencySymbol>
+    <SDRFactor>0.00674231</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.05</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>NetCoin</CurrencyName>
+    <CurrencySymbol>NET</CurrencySymbol>
+    <SDRFactor>0.000459</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Netherlands Antillean Guilder</CurrencyName>
+    <CurrencySymbol>ANG</CurrencySymbol>
+    <SDRFactor>0.36554</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>New Mozambican Metical</CurrencyName>
+    <CurrencySymbol>MZN</CurrencySymbol>
+    <SDRFactor>0.02054</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>New Taiwan Dollar</CurrencyName>
+    <CurrencySymbol>TWD</CurrencySymbol>
+    <SDRFactor>0.021616</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>New Zaire (obsolete)</CurrencyName>
+    <CurrencySymbol>ZRN</CurrencySymbol>
+    <SDRFactor>7.034E-07</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>10</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>New Zealand Dollar</CurrencyName>
+    <CurrencySymbol>NZD</CurrencySymbol>
+    <SDRFactor>0.564587</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Nicaraguan Cordoba Oro</CurrencyName>
+    <CurrencySymbol>NIO</CurrencySymbol>
+    <SDRFactor>0.024926</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.05</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Nigerian Naira</CurrencyName>
+    <CurrencySymbol>NGN</CurrencySymbol>
+    <SDRFactor>0.0039755</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Noirbits</CurrencyName>
+    <CurrencySymbol>NRB</CurrencySymbol>
+    <SDRFactor>0.004674</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>NoodlyAppendageCoin</CurrencyName>
+    <CurrencySymbol>NDL</CurrencySymbol>
+    <SDRFactor>2.075E-06</SDRFactor>
+    <UpdateDate>April 12, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>1000</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>North Korean Won</CurrencyName>
+    <CurrencySymbol>KPW</CurrencySymbol>
+    <SDRFactor>0.00072023</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Norwegian Krone</CurrencyName>
+    <CurrencySymbol>NOK</CurrencySymbol>
+    <SDRFactor>0.105585</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.5</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Novacoin</CurrencyName>
+    <CurrencySymbol>NVC</CurrencySymbol>
+    <SDRFactor>1.03912</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>1E-05</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Nxt</CurrencyName>
+    <CurrencySymbol>NXT</CurrencySymbol>
+    <SDRFactor>0.042591</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Old Afghan Afghani (obsolete)</CurrencyName>
+    <CurrencySymbol>AFA</CurrencySymbol>
+    <SDRFactor>1.12E-05</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Old Azerbaijani Manat (obsolete)</CurrencyName>
+    <CurrencySymbol>AZM</CurrencySymbol>
+    <SDRFactor>0.0001654</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>10</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Old Ghanaian Cedi (obsolete)</CurrencyName>
+    <CurrencySymbol>GHC</CurrencySymbol>
+    <SDRFactor>2.031E-05</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Old Mexican Peso (obsolete)</CurrencyName>
+    <CurrencySymbol>MXP</CurrencySymbol>
+    <SDRFactor>4.98145E-05</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Old Mozambican Metical (obsolete)</CurrencyName>
+    <CurrencySymbol>MZM</CurrencySymbol>
+    <SDRFactor>2.054E-05</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Old Romanian Leu (obsolete)</CurrencyName>
+    <CurrencySymbol>ROL</CurrencySymbol>
+    <SDRFactor>2.005E-05</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Old Russian Ruble (obsolete)</CurrencyName>
+    <CurrencySymbol>RUR</CurrencySymbol>
+    <SDRFactor>1.88328E-05</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>10</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Old Turkish Lira (obsolete)</CurrencyName>
+    <CurrencySymbol>TRL</CurrencySymbol>
+    <SDRFactor>3.0235E-07</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>5000</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Old Turkmenistan Manat (obsolete)</CurrencyName>
+    <CurrencySymbol>TMM</CurrencySymbol>
+    <SDRFactor>4.548E-05</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Old Zambian Kwacha (obsolete)</CurrencyName>
+    <CurrencySymbol>ZMK</CurrencySymbol>
+    <SDRFactor>0.000106</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Omani Rial</CurrencyName>
+    <CurrencySymbol>OMR</CurrencySymbol>
+    <SDRFactor>1.68439</SDRFactor>
+    <UpdateDate>June 19, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.005</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Orbitcoin</CurrencyName>
+    <CurrencySymbol>ORB</CurrencySymbol>
+    <SDRFactor>0.035</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Ounces of Aluminum</CurrencyName>
+    <CurrencySymbol>XAL</CurrencySymbol>
+    <SDRFactor>0.0339</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The London Metal Exchange</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Ounces of Copper</CurrencyName>
+    <CurrencySymbol>XCP</CurrencySymbol>
+    <SDRFactor>0.1245</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The London Metal Exchange</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Ounces of Gold</CurrencyName>
+    <CurrencySymbol>XAU</CurrencySymbol>
+    <SDRFactor>850.77</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Ounces of Palladium</CurrencyName>
+    <CurrencySymbol>XPD</CurrencySymbol>
+    <SDRFactor>532.8</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Ounces of Platinum</CurrencyName>
+    <CurrencySymbol>XPT</CurrencySymbol>
+    <SDRFactor>944.3</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Ounces of Silver</CurrencyName>
+    <CurrencySymbol>XAG</CurrencySymbol>
+    <SDRFactor>13.53</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Pakistan Rupee</CurrencyName>
+    <CurrencySymbol>PKR</CurrencySymbol>
+    <SDRFactor>0.00659233</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Panamanian Balboa</CurrencyName>
+    <CurrencySymbol>PAB</CurrencySymbol>
+    <SDRFactor>0.648</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Papua New Guinea Kina</CurrencyName>
+    <CurrencySymbol>PGK</CurrencySymbol>
+    <SDRFactor>0.267</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Paraguay Guarani</CurrencyName>
+    <CurrencySymbol>PYG</CurrencySymbol>
+    <SDRFactor>0.00014772</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Peercoin</CurrencyName>
+    <CurrencySymbol>PPC</CurrencySymbol>
+    <SDRFactor>1.14597</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.0001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Pence Sterling (lesser)</CurrencyName>
+    <CurrencySymbol>GBX</CurrencySymbol>
+    <SDRFactor>0.0110474</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Peruvian Nuevo Sol</CurrencyName>
+    <CurrencySymbol>PEN</CurrencySymbol>
+    <SDRFactor>0.231385</SDRFactor>
+    <UpdateDate>June 19, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Pesetacoin</CurrencyName>
+    <CurrencySymbol>PTC</CurrencySymbol>
+    <SDRFactor>0.00314</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Philippine Peso</CurrencyName>
+    <CurrencySymbol>PHP</CurrencySymbol>
+    <SDRFactor>0.0147749</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Philosopher Stones</CurrencyName>
+    <CurrencySymbol>PHS</CurrencySymbol>
+    <SDRFactor>0.02101</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Phoenixcoin</CurrencyName>
+    <CurrencySymbol>PXC</CurrencySymbol>
+    <SDRFactor>0.000887</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Polish Zloty</CurrencyName>
+    <CurrencySymbol>PLN</CurrencySymbol>
+    <SDRFactor>0.212561</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Portuguese Escudo (obsolete)</CurrencyName>
+    <CurrencySymbol>PTE</CurrencySymbol>
+    <SDRFactor>0.00439332</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.05</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>PotCoin</CurrencyName>
+    <CurrencySymbol>POT</CurrencySymbol>
+    <SDRFactor>0.006914</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Pound Sterling</CurrencyName>
+    <CurrencySymbol>GBP</CurrencySymbol>
+    <SDRFactor>1.10474</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Primecoin</CurrencyName>
+    <CurrencySymbol>XPM</CurrencySymbol>
+    <SDRFactor>0.24387</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.0001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>ProtoShares</CurrencyName>
+    <CurrencySymbol>PTS</CurrencySymbol>
+    <SDRFactor>2.90057</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>1E-05</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Qatari Riyal</CurrencyName>
+    <CurrencySymbol>QAR</CurrencySymbol>
+    <SDRFactor>0.178079</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Qora</CurrencyName>
+    <CurrencySymbol>QRA</CurrencySymbol>
+    <SDRFactor>0.00017</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>2</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>QuarkCoin</CurrencyName>
+    <CurrencySymbol>QRK</CurrencySymbol>
+    <SDRFactor>0.008683</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Ripple</CurrencyName>
+    <CurrencySymbol>XRP</CurrencySymbol>
+    <SDRFactor>0.0027</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Romanian Leu</CurrencyName>
+    <CurrencySymbol>RON</CurrencySymbol>
+    <SDRFactor>0.2005</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Russian Ruble</CurrencyName>
+    <CurrencySymbol>RUB</CurrencySymbol>
+    <SDRFactor>0.0188328</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Rwandan Franc</CurrencyName>
+    <CurrencySymbol>RWF</CurrencySymbol>
+    <SDRFactor>0.00095606</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Saint Helena Pound</CurrencyName>
+    <CurrencySymbol>SHP</CurrencySymbol>
+    <SDRFactor>1.1043</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Samoa Tala</CurrencyName>
+    <CurrencySymbol>WST</CurrencySymbol>
+    <SDRFactor>0.2831</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.05</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Sao Tome Dobra</CurrencyName>
+    <CurrencySymbol>STD</CurrencySymbol>
+    <SDRFactor>3.5872E-05</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.5</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Saudi Arabian Riyal</CurrencyName>
+    <CurrencySymbol>SAR</CurrencySymbol>
+    <SDRFactor>0.172706</SDRFactor>
+    <UpdateDate>June 19, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Second Zimbabwean Dollar (obsolete)</CurrencyName>
+    <CurrencySymbol>ZWN</CurrencySymbol>
+    <SDRFactor>6.48206E-30</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>5</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Serbian Dinar (obsolete)</CurrencyName>
+    <CurrencySymbol>CSD</CurrencySymbol>
+    <SDRFactor>0.007635</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.5</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Serbian Dinar</CurrencyName>
+    <CurrencySymbol>RSD</CurrencySymbol>
+    <SDRFactor>0.007635</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.5</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Sexcoin</CurrencyName>
+    <CurrencySymbol>SXC</CurrencySymbol>
+    <SDRFactor>0.00129</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Seychelles Rupee</CurrencyName>
+    <CurrencySymbol>SCR</CurrencySymbol>
+    <SDRFactor>0.052623</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.05</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Sierra Leonean Leone</CurrencyName>
+    <CurrencySymbol>SLL</CurrencySymbol>
+    <SDRFactor>0.00014936</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>10</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>SiliconValleyCoin</CurrencyName>
+    <CurrencySymbol>XSV</CurrencySymbol>
+    <SDRFactor>0.00174</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>0.001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Singapore Dollar</CurrencyName>
+    <CurrencySymbol>SGD</CurrencySymbol>
+    <SDRFactor>0.518855</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Slovak Koruna (obsolete)</CurrencyName>
+    <CurrencySymbol>SKK</CurrencySymbol>
+    <SDRFactor>0.0292366</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.5</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Slovenian Tolar (obsolete)</CurrencyName>
+    <CurrencySymbol>SIT</CurrencySymbol>
+    <SDRFactor>0.00367544</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>SolarCoin</CurrencyName>
+    <CurrencySymbol>SLR</CurrencySymbol>
+    <SDRFactor>0.00274</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>0.1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Solomon Islands Dollar</CurrencyName>
+    <CurrencySymbol>SBD</CurrencySymbol>
+    <SDRFactor>0.089768</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.05</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Somali Shilling</CurrencyName>
+    <CurrencySymbol>SOS</CurrencySymbol>
+    <SDRFactor>0.00067875</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>South African Rand</CurrencyName>
+    <CurrencySymbol>ZAR</CurrencySymbol>
+    <SDRFactor>0.0605961</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.05</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>SpainCoin</CurrencyName>
+    <CurrencySymbol>SPA</CurrencySymbol>
+    <SDRFactor>0.00104</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>0.001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Spanish Peseta (obsolete)</CurrencyName>
+    <CurrencySymbol>ESP</CurrencySymbol>
+    <SDRFactor>0.00529361</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Special Drawing Right</CurrencyName>
+    <CurrencySymbol>SDR</CurrencySymbol>
+    <SDRFactor>1</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Sri Lankan Rupee</CurrencyName>
+    <CurrencySymbol>LKR</CurrencySymbol>
+    <SDRFactor>0.00497605</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>StableCoin</CurrencyName>
+    <CurrencySymbol>SBC</CurrencySymbol>
+    <SDRFactor>0.000801</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>0.001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Sudanese Dinar (obsolete)</CurrencyName>
+    <CurrencySymbol>SDD</CurrencySymbol>
+    <SDRFactor>0.0011387</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Sudanese Pound</CurrencyName>
+    <CurrencySymbol>SDG</CurrencySymbol>
+    <SDRFactor>0.11387</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Sudanese Pound (obsolete)</CurrencyName>
+    <CurrencySymbol>SDP</CurrencySymbol>
+    <SDRFactor>0.00011387</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Suriname Dollar</CurrencyName>
+    <CurrencySymbol>SRD</CurrencySymbol>
+    <SDRFactor>0.192</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Suriname Guilder (obsolete)</CurrencyName>
+    <CurrencySymbol>SRG</CurrencySymbol>
+    <SDRFactor>0.000192</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>5</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Swazi Lilangeni</CurrencyName>
+    <CurrencySymbol>SZL</CurrencySymbol>
+    <SDRFactor>0.060501</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Swedish Krona</CurrencyName>
+    <CurrencySymbol>SEK</CurrencySymbol>
+    <SDRFactor>0.0977256</SDRFactor>
+    <UpdateDate>June 19, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Swiss Franc</CurrencyName>
+    <CurrencySymbol>CHF</CurrencySymbol>
+    <SDRFactor>0.724333</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.05</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Syrian Pound</CurrencyName>
+    <CurrencySymbol>SYP</CurrencySymbol>
+    <SDRFactor>0.0043504</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.25</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>TagCoin</CurrencyName>
+    <CurrencySymbol>TAG</CurrencySymbol>
+    <SDRFactor>0.045546</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.0001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Tajikistan Somoni</CurrencyName>
+    <CurrencySymbol>TJS</CurrencySymbol>
+    <SDRFactor>0.1315</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.05</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Tanzanian Shilling</CurrencyName>
+    <CurrencySymbol>TZS</CurrencySymbol>
+    <SDRFactor>0.00038503</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.05</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Terracoin</CurrencyName>
+    <CurrencySymbol>TRC</CurrencySymbol>
+    <SDRFactor>0.03416</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Thai Baht</CurrencyName>
+    <CurrencySymbol>THB</CurrencySymbol>
+    <SDRFactor>0.0199651</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.25</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Thai Offshore Baht</CurrencyName>
+    <CurrencySymbol>THO</CurrencySymbol>
+    <SDRFactor>0.01997</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.25</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Third Zimbabwean Dollar (obsolete)</CurrencyName>
+    <CurrencySymbol>ZWR</CurrencySymbol>
+    <SDRFactor>6.48206E-17</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Tickets</CurrencyName>
+    <CurrencySymbol>TIX</CurrencySymbol>
+    <SDRFactor>2.973E-06</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.0001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Tigercoin</CurrencyName>
+    <CurrencySymbol>TGC</CurrencySymbol>
+    <SDRFactor>0.003543</SDRFactor>
+    <UpdateDate>February 7, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Tongan Pa&amp;#39;Anga</CurrencyName>
+    <CurrencySymbol>TOP</CurrencySymbol>
+    <SDRFactor>0.35051</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Trinidad and Tobago Dollar</CurrencyName>
+    <CurrencySymbol>TTD</CurrencySymbol>
+    <SDRFactor>0.102204</SDRFactor>
+    <UpdateDate>June 18, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Tunisian Dinar</CurrencyName>
+    <CurrencySymbol>TND</CurrencySymbol>
+    <SDRFactor>0.393014</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.005</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Turkish Lira</CurrencyName>
+    <CurrencySymbol>TRY</CurrencySymbol>
+    <SDRFactor>0.30235</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Turkmenistan Manat</CurrencyName>
+    <CurrencySymbol>TMT</CurrencySymbol>
+    <SDRFactor>0.2274</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Uganda Shilling</CurrencyName>
+    <CurrencySymbol>UGX</CurrencySymbol>
+    <SDRFactor>0.00024998</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>50</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Ukrainian Hryvnia</CurrencyName>
+    <CurrencySymbol>UAH</CurrencySymbol>
+    <SDRFactor>0.054657</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>United Arab Emirates Dirham</CurrencyName>
+    <CurrencySymbol>AED</CurrencySymbol>
+    <SDRFactor>0.176503</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.25</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>United States Dollar</CurrencyName>
+    <CurrencySymbol>USD</CurrencySymbol>
+    <SDRFactor>0.648206</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Unobtanium</CurrencyName>
+    <CurrencySymbol>UNO</CurrencySymbol>
+    <SDRFactor>1.39547</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>1E-05</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Uruguayan peso</CurrencyName>
+    <CurrencySymbol>UYU</CurrencySymbol>
+    <SDRFactor>0.0283114</SDRFactor>
+    <UpdateDate>June 18, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Uzbekistani Som</CurrencyName>
+    <CurrencySymbol>UZS</CurrencySymbol>
+    <SDRFactor>0.0002815</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Vanuatu Vatu</CurrencyName>
+    <CurrencySymbol>VUV</CurrencySymbol>
+    <SDRFactor>0.006921</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Venezuelan Bolivar (obsolete)</CurrencyName>
+    <CurrencySymbol>VEB</CurrencySymbol>
+    <SDRFactor>0.00010306</SDRFactor>
+    <UpdateDate>June 19, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Venezuelan Bolivar Fuerte</CurrencyName>
+    <CurrencySymbol>VEF</CurrencySymbol>
+    <SDRFactor>0.10306</SDRFactor>
+    <UpdateDate>June 19, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Vertcoin</CurrencyName>
+    <CurrencySymbol>VTC</CurrencySymbol>
+    <SDRFactor>0.33149</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.0001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Viet Nam Dong</CurrencyName>
+    <CurrencySymbol>VND</CurrencySymbol>
+    <SDRFactor>3.0454E-05</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>200</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>West African CFA</CurrencyName>
+    <CurrencySymbol>XOF</CurrencySymbol>
+    <SDRFactor>0.00134274</SDRFactor>
+    <UpdateDate>June 20, 2014</UpdateDate>
+    <FactorSource>The International Monetary Fund</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>WhiteCoin</CurrencyName>
+    <CurrencySymbol>WHC</CurrencySymbol>
+    <SDRFactor>0.000459</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>0.1</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>WorldCoin</CurrencyName>
+    <CurrencySymbol>WDC</CurrencySymbol>
+    <SDRFactor>0.008979</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>XC</CurrencyName>
+    <CurrencySymbol>XXC</CurrencySymbol>
+    <SDRFactor>0.447594</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.0001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Yacoin</CurrencyName>
+    <CurrencySymbol>YAC</CurrencySymbol>
+    <SDRFactor>0.00249</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>YbCoin</CurrencyName>
+    <CurrencySymbol>YBC</CurrencySymbol>
+    <SDRFactor>0.689085</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>6</SigFig>
+    <SmallUnit>0.0001</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Yemeni Rial</CurrencyName>
+    <CurrencySymbol>YER</CurrencySymbol>
+    <SDRFactor>0.0030169</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>5</SigFig>
+    <SmallUnit>0.005</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Yugoslavian Dinar (obsolete)</CurrencyName>
+    <CurrencySymbol>YUM</CurrencySymbol>
+    <SDRFactor>0.4507</SDRFactor>
+    <UpdateDate>June 21, 2014</UpdateDate>
+    <FactorSource>Bloomberg</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.5</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Zambian Kwacha</CurrencyName>
+    <CurrencySymbol>ZMW</CurrencySymbol>
+    <SDRFactor>0.106</SDRFactor>
+    <UpdateDate>June 23, 2014</UpdateDate>
+    <FactorSource>Yahoo Finance</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>0.05</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Zeitcoin</CurrencyName>
+    <CurrencySymbol>ZTC</CurrencySymbol>
+    <SDRFactor>0.00194</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>3</SigFig>
+    <SmallUnit>10</SmallUnit>
+  </Record>
+  <Record>
+    <CurrencyName>Zetacoin</CurrencyName>
+    <CurrencySymbol>ZET</CurrencySymbol>
+    <SDRFactor>0.01284</SDRFactor>
+    <UpdateDate>June 22, 2014</UpdateDate>
+    <FactorSource>coinmarketcap.com</FactorSource>
+    <SigFig>4</SigFig>
+    <SmallUnit>0.01</SmallUnit>
+  </Record>
+</ArrayOfRecord>
